@@ -30,17 +30,15 @@
   - [Cheat sheet for FLEX](https://flexbox.malven.co/)
 
     ## JavaScript
-
- - [Modern textbook JavaScript](https://learn.javascript.en/)
- - [MDN](https://developer.mozilla.org/docs/Web/JavaScript)
- - [Topic on Habr](https://habr.com/hub/javascript/)
- - [Awesome-javascript](https://github.com/sorrycc/awesome-javascript)
- - [MyJS](https://github.com/harryheman/my-js)
- - [Basic textbook JavaScript](https://code.mu/javascript/book/prime/)
+- [Modern textbook JavaScript](https://learn.javascript.en/)
+- [MDN](https://developer.mozilla.org/docs/Web/JavaScript)
+- [Topic on Habr](https://habr.com/hub/javascript/)
+- [Awesome-javascript](https://github.com/sorrycc/awesome-javascript)
+- [MyJS](https://github.com/harryheman/my-js)
+- [Basic textbook JavaScript](https://code.mu/javascript/book/prime/)
 
  ## Node js
-
- - [Handbook of Node js](https://github.com/xsltdev/nodejsdev.en)
+- [Handbook of Node js](https://github.com/xsltdev/nodejsdev.en)
 
 ## Categories
 
