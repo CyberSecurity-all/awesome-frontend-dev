@@ -106,7 +106,7 @@
 - [Hemanth Kollipara](https://github.com/Defcon27/Defcon27)
 - [Tushar Mittal](https://github.com/techytushar/techytushar)
 
-### Полезные программы 🤗
+### Useful programs 🤗
  - [VS Code](https://code.visualstudio.com/)
  - [Postman - API testing](https://www.postman.com/)
  - [Organizing code snippets](https://snipit.io/)
